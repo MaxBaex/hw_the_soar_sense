@@ -12,16 +12,10 @@ Hours: 10 + 6
 - SHT31-DIS-B2.5kS C80862 Alternative: SHT35-DIS-B  C90161
 
 
-## TODOs:
-- Discussion:   Slope Control CAN-Interface required  EMC?
-- Sensor to close to heat generating controller? 
-- Allow breaking off sensor and extending connection with wires!  
+- Worst case current consumption: F103 needs max 50mA , MAX3051 typical 35mA, max 70mA, SHT35   max 1.5mA, LEDs = 10mA
 
 
-heat dissipation LDO?   
-F103 needs max 50mA 
-MAX3051   typical 35mA    max 70mA
-SHT35   max 1.5mA 
-2 x LED = 10mA
+
+
 
 
