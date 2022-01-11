@@ -1,7 +1,7 @@
 # Hardware_SOAR_Sense
 Minimalistic very small temperature and humidity sensing device. Could also be used for differential pressure sensing. Two I2C interfaces are desired.  PCB shall be as small as possible. A couple of ADC inputs are desired e.g. for control input sensing (VDD as reference and a slightly protected input). 
 
-Hours: 10 
+Hours: 10 + 6
 
 ## Facts
 - SWD interface
@@ -14,5 +14,14 @@ Hours: 10
 
 ## TODOs:
 - Discussion:   Slope Control CAN-Interface required  EMC?
-- Missing SWD Interface
-- Mountinholes  , Cableholes
+- Sensor to close to heat generating controller? 
+- Allow breaking off sensor and extending connection with wires!  
+
+
+heat dissipation LDO?   
+F103 needs max 50mA 
+MAX3051   typical 35mA    max 70mA
+SHT35   max 1.5mA 
+2 x LED = 10mA
+
+
