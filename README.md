@@ -19,4 +19,7 @@ Minimalistic very small temperature and humidity sensing device with CAN interfa
 
 
 
-
+## TODO
+- backside solder pads for differential pressure package 
+- review and feedback
+- are the cable solder connections the right choice?
