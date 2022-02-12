@@ -23,3 +23,5 @@ Minimalistic very small temperature and humidity sensing device with CAN interfa
 - backside solder pads for differential pressure package 
 - review and feedback
 - are the cable solder connections the right choice?
+- make sensor voltage switchable! 
+- add some signal leds
