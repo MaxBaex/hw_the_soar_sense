@@ -1,4 +1,4 @@
-# Hardware_SOAR_Sense
+# PCB design for sense module
 Minimalistic very small temperature and humidity sensing device with CAN interface. Could also be used for other CAN bus attached sensing tasks. 
 
 
@@ -21,6 +21,7 @@ Minimalistic very small temperature and humidity sensing device with CAN interfa
 
 ## TODO
 - backside solder pads for differential pressure package 
+- more backside connectors 
 - review and feedback
 - are the cable solder connections the right choice?
 - make sensor voltage switchable! 
